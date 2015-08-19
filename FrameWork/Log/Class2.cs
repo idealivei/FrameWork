@@ -7,5 +7,6 @@ namespace Idealive.FrameWork.Logs
 {
     class Class2
     {
+        string test = string.Empty;
     }
 }
